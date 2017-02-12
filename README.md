@@ -1,6 +1,8 @@
 Freelancer Jekyll theme
 =========================
 
+bundle exec jekyll serve
+
 Jekyll theme based on [Freelancer bootstrap theme ](http://startbootstrap.com/template-overviews/freelancer/)
 
 ## How to use

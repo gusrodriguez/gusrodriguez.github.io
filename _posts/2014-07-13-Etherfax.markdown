@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 6
+date: 2014-07-15
+img: submarine.png
+img_full: submarine_full.png
+alt: image-alt
+project-date: 2013
+client: Etherfax
+category: Javascript / HTML 5 / WebApi
+description: Etherfax is a real-time, hybrid fax solutions leveraging the cloud through HTTPS to enable secure data transmission. PCI and HIPAA compliant. ATA fax solution.
+
+---

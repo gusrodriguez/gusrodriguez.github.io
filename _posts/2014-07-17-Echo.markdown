@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 2
+date: 2014-07-17
+img: cake.png
+img_full: cake_full.png
+alt: image-alt
+project-date: 2017
+client: Echo
+category: Javascript / HTML5 / NodeJs
+description: Echo enables you to track what the online community thinks of your brand.
+
+---

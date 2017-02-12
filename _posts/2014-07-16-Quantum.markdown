@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 3
+date: 2014-07-16
+img: circus.png
+img_full: circus_full.png
+alt: image-alt
+project-date: 2017
+client: Quantum
+category: Javascript / AngujarJs
+description: Quantum is a Social Media Analytics solution that allows you to keep track of your activity as well as that of your competitor's.
+
+---
